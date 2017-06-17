@@ -1,0 +1,5 @@
+Use WASD to select a direction to travel towards.
+If there isn't a path in that direction,
+the most visible one will used instead.
+
+When you find an enemy, use WASD and Space to evade and reflect their attacks.

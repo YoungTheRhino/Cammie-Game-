@@ -1,0 +1,356 @@
+fileFormatVersion: 2
+guid: f1730e038648f824bb1778f822f47d4c
+timeCreated: 1453515711
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cammiesprite0000_0
+    21300002: cammiesprite0000_1
+    21300004: cammiesprite0000_2
+    21300006: cammiesprite0000_3
+    21300008: cammiesprite0000_4
+    21300010: cammiesprite0000_5
+    21300012: cammiesprite0000_6
+    21300014: cammiesprite0000_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: cammiesprite0000_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 947
+        width: 253
+        height: 374
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 117.5, y: 93}
+        - {x: 83.5, y: 145}
+        - {x: 104.5, y: 156}
+        - {x: 114.5, y: 202}
+        - {x: 114.5, y: 246}
+        - {x: 99.5, y: 305}
+        - {x: 19.5, y: 326}
+        - {x: -7.5, y: 374}
+        - {x: -83.5, y: 374}
+        - {x: -106.5, y: 349}
+        - {x: -126.5, y: 279}
+        - {x: -126.5, y: 184}
+        - {x: -106.5, y: 134}
+        - {x: -81.5, y: 102}
+        - {x: -126.5, y: 50}
+        - {x: -126.5, y: 45}
+        - {x: -101.5, y: 31}
+        - {x: -111.5, y: 6}
+        - {x: -101.5, y: 4}
+        - {x: -66.5, y: 4}
+        - {x: 3.5, y: 41}
+        - {x: 39.5, y: 23}
+        - {x: 55.5, y: 0}
+        - {x: 94.5, y: 0}
+        - {x: 104.5, y: 10}
+        - {x: 126.5, y: 50}
+        - {x: 126.5, y: 80}
+    - name: cammiesprite0000_1
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 947
+        width: 252
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 117, y: 89}
+        - {x: 84, y: 132}
+        - {x: 103, y: 151}
+        - {x: 121, y: 168}
+        - {x: 118, y: 231}
+        - {x: 92, y: 283}
+        - {x: 62, y: 297}
+        - {x: 14, y: 345}
+        - {x: -8, y: 364}
+        - {x: -93, y: 364}
+        - {x: -104, y: 362}
+        - {x: -126, y: 266}
+        - {x: -126, y: 163}
+        - {x: -95, y: 104}
+        - {x: -114, y: 61}
+        - {x: -117, y: 40}
+        - {x: -110, y: 38}
+        - {x: -106, y: 7}
+        - {x: -97, y: 4}
+        - {x: -62, y: 3}
+        - {x: -16, y: 30}
+        - {x: 13, y: 25}
+        - {x: 61, y: 0}
+        - {x: 98, y: 0}
+        - {x: 101, y: 8}
+        - {x: 126, y: 36}
+        - {x: 126, y: 60}
+    - name: cammiesprite0000_2
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 947
+        width: 252
+        height: 356
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 88, y: 271}
+        - {x: 10, y: 344}
+        - {x: -2, y: 315}
+        - {x: -24, y: 245}
+        - {x: -81, y: 179}
+        - {x: -69, y: 264}
+        - {x: -35, y: 262}
+        - {x: -13, y: 288}
+        - {x: -3, y: 316}
+        - {x: 1, y: 350}
+        - {x: -23, y: 356}
+        - {x: -87, y: 356}
+        - {x: -97, y: 345}
+        - {x: -126, y: 268}
+        - {x: -126, y: 156}
+        - {x: -96, y: 95}
+        - {x: -124, y: 29}
+        - {x: -110, y: 1}
+        - {x: -94, y: 0}
+        - {x: 122, y: 0}
+        - {x: 126, y: 4}
+        - {x: 126, y: 161}
+        - {x: 115, y: 222}
+    - name: cammiesprite0000_3
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 947
+        width: 252
+        height: 350
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 119, y: 238}
+        - {x: 29, y: 314}
+        - {x: 22, y: 320}
+        - {x: -5, y: 294}
+        - {x: -31, y: 196}
+        - {x: -69, y: 258}
+        - {x: -33, y: 250}
+        - {x: 3, y: 310}
+        - {x: -8, y: 338}
+        - {x: -21, y: 350}
+        - {x: -98, y: 350}
+        - {x: -126, y: 277}
+        - {x: -126, y: 162}
+        - {x: -100, y: 72}
+        - {x: -122, y: 25}
+        - {x: -98, y: 1}
+        - {x: -62, y: 4}
+        - {x: 46, y: 1}
+        - {x: 48, y: 0}
+        - {x: 125, y: 0}
+        - {x: 126, y: 2}
+        - {x: 126, y: 96}
+        - {x: 119, y: 137}
+    - name: cammiesprite0000_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 578
+        width: 333
+        height: 313
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 166.5, y: 128}
+        - {x: 166.5, y: 198}
+        - {x: 164.5, y: 200}
+        - {x: 128.5, y: 192}
+        - {x: 118.5, y: 246}
+        - {x: 89.5, y: 271}
+        - {x: 44.5, y: 283}
+        - {x: 47.5, y: 313}
+        - {x: 34.5, y: 313}
+        - {x: 29.5, y: 312}
+        - {x: 21.5, y: 297}
+        - {x: -58.5, y: 288}
+        - {x: -153.5, y: 244}
+        - {x: -166.5, y: 233}
+        - {x: -166.5, y: 150}
+        - {x: -165.5, y: 146}
+        - {x: -79.5, y: 88}
+        - {x: -104.5, y: 25}
+        - {x: -80.5, y: 3}
+        - {x: -46.5, y: 3}
+        - {x: 31.5, y: 12}
+        - {x: 77.5, y: 0}
+        - {x: 117.5, y: 0}
+        - {x: 151.5, y: 29}
+        - {x: 135.5, y: 75}
+        - {x: 111.5, y: 98}
+    - name: cammiesprite0000_5
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 481
+        width: 238
+        height: 459
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 31}
+        - {x: 36, y: 12}
+        - {x: 59, y: 6}
+        - {x: 63, y: 20}
+        - {x: 84, y: 84}
+        - {x: 119, y: 89}
+        - {x: 119, y: 130}
+        - {x: 98, y: 267}
+        - {x: 103, y: 344}
+        - {x: 33, y: 376}
+        - {x: -17, y: 359}
+        - {x: 6, y: 408}
+        - {x: -32, y: 459}
+        - {x: -92, y: 459}
+        - {x: -119, y: 442}
+        - {x: -119, y: 318}
+        - {x: -116, y: 273}
+        - {x: -101, y: 152}
+        - {x: -73, y: 72}
+        - {x: -22, y: 52}
+        - {x: -22, y: 19}
+        - {x: -17, y: 1}
+        - {x: -14, y: 0}
+        - {x: -3, y: 0}
+        - {x: 3, y: 10}
+        - {x: 3, y: 16}
+        - {x: 12, y: 42}
+    - name: cammiesprite0000_6
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 476
+        width: 238
+        height: 467
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 83, y: 95}
+        - {x: 119, y: 98}
+        - {x: 119, y: 125}
+        - {x: 90, y: 236}
+        - {x: 93, y: 341}
+        - {x: 50, y: 380}
+        - {x: -18, y: 366}
+        - {x: -12, y: 382}
+        - {x: -1, y: 418}
+        - {x: -32, y: 464}
+        - {x: -43, y: 467}
+        - {x: -89, y: 467}
+        - {x: -119, y: 452}
+        - {x: -119, y: 268}
+        - {x: -99, y: 170}
+        - {x: -66, y: 138}
+        - {x: -74, y: 88}
+        - {x: -63, y: 81}
+        - {x: -47, y: 82}
+        - {x: -30, y: 51}
+        - {x: -17, y: 0}
+        - {x: 51, y: 0}
+        - {x: 65, y: 2}
+        - {x: 63, y: 19}
+        - {x: 62, y: 22}
+        - {x: 48, y: 55}
+    - name: cammiesprite0000_7
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 98
+        width: 254
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 112, y: 216}
+        - {x: 93, y: 268}
+        - {x: 11, y: 357}
+        - {x: -31, y: 248}
+        - {x: -72, y: 163}
+        - {x: -16, y: 290}
+        - {x: -7, y: 312}
+        - {x: -3, y: 334}
+        - {x: -9, y: 361}
+        - {x: -90, y: 361}
+        - {x: -123, y: 351}
+        - {x: -127, y: 329}
+        - {x: -127, y: 155}
+        - {x: -120, y: 118}
+        - {x: -127, y: 50}
+        - {x: -127, y: 18}
+        - {x: -77, y: 0}
+        - {x: -41, y: 0}
+        - {x: 14, y: 20}
+        - {x: 54, y: 0}
+        - {x: 82, y: 0}
+        - {x: 80, y: 10}
+        - {x: 127, y: 31}
+        - {x: 127, y: 84}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
